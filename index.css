@@ -1,0 +1,12 @@
+#hero {
+	background: linear-gradient(
+			180deg,
+			rgba(168, 214, 239, 0.2) 0%,
+			rgba(255, 255, 255, 0) 100%
+		),
+		linear-gradient(
+			239deg,
+			rgba(235, 248, 254, 0.9) 39.22%,
+			rgba(255, 255, 255, 0) 68.61%
+		);
+}
